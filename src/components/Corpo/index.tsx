@@ -147,22 +147,19 @@ function HardSkills() {
         { name: "CSS", level: 90 },
         { name: "JavaScript", level: 60 },
         { name: "TypeScript", level: 70 },
-        { name: "React", level: 70 },
-        { name: "TailwindCSS", level: 80 }
+        { name: "React", level: 70 }
     ]
 
     const Backend = [
         { name: "C#", level: 85 },
         { name: "ASP.NET", level: 70 },
-        { name: "SQL Server", level: 85 },
+        { name: "SQL Server", level: 85 }
     ]
 
     const Outras = [
         "Git/GitHub", "Bash", "Powershell", "Figma",
-        "npm", "Excel", "Word", "Sheets", "Docs",
-        "Jira", "Trello", "Planner", "Infraestrutura de TI",
-        "Suporte Técnico", "Rede de Computadores", "Gestão de Projetos",
-        "Governancia de TI"
+        "npm", "Excel", "Word", "Docs", "Trello", "Infraestrutura de TI",
+        "Suporte Técnico", "Gestão de Projetos",
     ]
     const Idioma = [
     
